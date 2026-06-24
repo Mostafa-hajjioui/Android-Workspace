@@ -1,0 +1,6 @@
+{
+  "name": "Atlas Academy",
+  "description": "Premium 1-month Summer Intensive Course portal mapping the core curriculum, interactive diagnostic tests, and dynamic certificate graduation for Moroccan youth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
